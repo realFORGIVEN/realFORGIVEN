@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realFORGIVEN
+Hello, I’m @realFORGIVEN
 I’m interested in making plugins / java / spigot - bukkit,
 I’m currently learning GUI plugins,
 I’m looking to collaborate on any plugin...
